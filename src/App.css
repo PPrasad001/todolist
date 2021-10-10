@@ -1,0 +1,21 @@
+.mainDiv {
+  width: 25%;
+  margin-left: 37.5%;
+  height: auto;
+  min-height: 30rem;
+  text-align: center;
+  background-color: lightgoldenrodyellow;
+  border-radius: 1%;
+  box-shadow: 1px 1px 1px black;
+}
+
+.items {
+  text-align: left;
+}
+
+.h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  background-color: orange;
+  margin-top: 2rem;
+}

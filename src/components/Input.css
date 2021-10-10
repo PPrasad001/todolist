@@ -1,0 +1,37 @@
+form {
+  display: block;
+  margin: 0;
+  padding: 0;
+  height: 2rem;
+  border-color: black;
+  background-color: lightgoldenrodyellow;
+  font-family: "Courier New", Courier, monospace;
+  font-size: medium;
+  font-weight: bold;
+}
+
+input {
+  margin-right: 1rem;
+  height: 2rem;
+  width: 13rem;
+  margin-left: 0;
+  display: inline-block;
+  border-style: dashed;
+  border-width: 0 0 0.15rem;
+  border-color: black;
+  background-color: lightgoldenrodyellow;
+  font-family: "Courier New", Courier, monospace;
+  font-size: medium;
+  font-weight: bold;
+}
+
+button {
+  height: 2rem;
+  width: 3.5rem;
+  border-radius: 10%;
+  border-color: black;
+  background-color: lightgoldenrodyellow;
+  font-family: "Courier New", Courier, monospace;
+  font-size: medium;
+  font-weight: bold;
+}
